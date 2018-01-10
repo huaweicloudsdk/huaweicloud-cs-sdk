@@ -13,7 +13,7 @@ Quick links:
 - JDK 8
 - Maven or SBT
 
-##  Install
+##  Install****
 
 CS now is open beta, only provide [Snapshot SDK](https://oss.sonatype.org/content/repositories/snapshots/com/huaweicloud/cs/huaweicloud-cs-sdk/) for developer.
 

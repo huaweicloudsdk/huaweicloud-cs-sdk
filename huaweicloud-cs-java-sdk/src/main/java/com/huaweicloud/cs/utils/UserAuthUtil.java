@@ -40,7 +40,7 @@ public class UserAuthUtil {
     };
     private String tokenUrl = "https://iam.cn-north-1.myhwclouds.com/v3/auth/tokens";
     private String tokenBody;
-    private String akSKUrl = "https://iam.cn-north-1.myhwclouds.com/v3-huawei/auth/credential";
+    private String akSKUrl = "https://iam.cn-north-1.myhuaweicloud.com/v3.0/OS-CREDENTIAL/securitytokens";
     private String akSKBody;
 
     /**
